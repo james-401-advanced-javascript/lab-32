@@ -5,7 +5,7 @@
 ### Author: James Dunn
 
 ### Links and Resources
-* [submission PR](https://github.com/james-401-advanced-javascript/lab-32/pull/1
+* [submission PR](https://github.com/james-401-advanced-javascript/lab-32/pull/1)
 
 #### Running the app
 * `npm start`
